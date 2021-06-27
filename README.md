@@ -1,12 +1,11 @@
 # Personal Porfolio Site
 ## StaciAF.github.io
-<a href="https://www.linkedin.com/in/staci-af/" target="_top">Staci AF -- LinkedIn</a>
-<br>
-<a href="https://twitter.com/wife_tiny" target="_top">tiny_wife -- Twitter</a>
 
-#### Description:
-*  While taking a simple approach, I was diligent to ensure color contrast was accessible and site is mobile responsive.
-*  Built to apply learned Front-End design skills and highlight relevant projects completed
+### :dart: Connect 
+* <a href="https://www.linkedin.com/in/staci-af/" target="_top">Staci AF -- LinkedIn</a>
+* <a href="https://twitter.com/wife_tiny" target="_top">tiny_wife -- Twitter</a>
+### Project Description:
+While taking a simple approach, I was diligent to ensure color contrast was accessible and site is mobile responsive. Built to apply learned Front-End design skills and highlight relevant projects completed
  
 ### :love_letter:  Be kind
 ![Screen Shot 2021-06-26 at 2 24 44 PM](https://user-images.githubusercontent.com/56170981/123523605-42d4b800-d68a-11eb-9983-8e9e8032a99f.png)
