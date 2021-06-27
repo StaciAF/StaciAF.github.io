@@ -1,5 +1,8 @@
 # Personal Porfolio Site
 ## StaciAF.github.io
+<a href="https://www.linkedin.com/in/staci-af/" target="_top">Staci AF -- LinkedIn</a>
+<br>
+<a href="https://twitter.com/wife_tiny" target="_top">tiny_wife -- Twitter</a>
 
 #### Description:
 *  While taking a simple approach, I was diligent to ensure color contrast was accessible and site is mobile responsive.
